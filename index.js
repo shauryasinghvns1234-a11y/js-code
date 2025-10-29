@@ -41,3 +41,5 @@ const p=56;
 const u=32;
 const x=p/u;
 console.log(x)
+console.log("pratik chatuvedi");
+
