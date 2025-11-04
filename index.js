@@ -37,9 +37,12 @@
 // const k=45;
 // const l=j*k;
 // console.log(l)
-const p=56;
-const u=32;
-const x=p/u;
-console.log(x)
-console.log("pratik chatuvedi");
+// const p=56;
+// const u=32;
+// const x=p/u;
+// console.log(x)
+// console.log("pratik chatuvedi");
+var a=37;
+console.log(a)
+
 
